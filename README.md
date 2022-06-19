@@ -1,4 +1,4 @@
-# Sum of Series 2
+# Sum of Series 2 : Convergent Series
 
 ## Java Programming Course
 
@@ -15,7 +15,7 @@ Problem Statement
 
 Calculate the sum of the following series
 
-$$sum=1/1+1/2+1/3+1/4+1/5+...+1/n$$
+$$sum=1+1/2+1/4+1/8+...+1/n$$
 
 Where `n` is a number input by the user.
 
